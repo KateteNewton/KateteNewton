@@ -7,13 +7,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Mobile+App+Builder;Based+in+Zambia" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=KateteNewton&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=onedark&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KateteNewton&theme=onedark&column=7&margin-w=10" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=KateteNewton&color=blue&style=flat-square" />
 </p>
 
 ### 🔭 What I'm working on
